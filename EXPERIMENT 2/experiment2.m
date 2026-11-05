@@ -280,4 +280,4 @@ fprintf('Dominant relative power = %.2f%%\n', ...
     dominantRelativePower);
 
 fprintf('========================================\n');
-fprintf('Experiment 2 completed successfully.\n');
+fprintf('Experiment 2 completed successfully.\n');.
